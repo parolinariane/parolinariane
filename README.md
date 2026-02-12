@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fdadd7&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff99d1&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fdadd7&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Ariane+Parolin+Calarga;Technical+Degree+in+Systems+Development+-+COTUCA;Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff99d1&size=35&center=true&vCenter=true&width=1000&lines=Hey+there!;My+name+is+Ariane+Parolin+Calarga;Technical+Degree+in+Systems+Development+-+COTUCA;Full+Stack+Developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 ## 👩‍💻 About Me
@@ -68,5 +68,5 @@ Currently expanding my knowledge in mobile development with .NET MAUI and React 
 <br></div> -->
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fdadd7&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff99d1&height=120&section=footer"/>
 
